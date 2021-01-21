@@ -1,1 +1,3 @@
 este es un ejercicio para aprender a guardar commits
+
+aprendidendo: git add y git commit -m
