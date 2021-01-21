@@ -10,3 +10,5 @@ comando 5
 son 5 comandos que se van a trabajar
 aprende a usarlos con practica constante
 recuerda que los comandos son distintos y se deben memorizar
+
+este es un ejercicio para memorizar los comandos en git
