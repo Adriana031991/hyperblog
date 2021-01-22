@@ -1,2 +1,2 @@
-# hyperblog
-ejercicio para comprender git y github
+# Hyperblog
+Ejercicio para comprender git y github
