@@ -12,7 +12,7 @@ body {
     border: 1px black solid;
 }
 #cabecera {
-    background-color: cadetblue;
+    background-color: rgb(99, 95, 160);
     color:  black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
