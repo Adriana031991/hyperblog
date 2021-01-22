@@ -12,11 +12,7 @@ body {
     border: 1px black solid;
 }
 #cabecera {
-<<<<<<< HEAD
     background-color: rgb(66, 185, 136);
-=======
-    background-color: rgb(99, 95, 160);
->>>>>>> cabecera
     color:  black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
