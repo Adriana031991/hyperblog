@@ -42,3 +42,8 @@ h2 {
     text-transform: uppercase;
 
 }
+
+#footer {
+    background-color: #42b988;
+    padding: 10px;
+}
