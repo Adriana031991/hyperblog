@@ -33,3 +33,8 @@ body {
     padding: 1px 2em;
     font-weight: 200;
 }
+
+#footer {
+    background-color: #42b988;
+    padding: 10px;
+}
