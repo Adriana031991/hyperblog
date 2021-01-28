@@ -9,8 +9,8 @@ experimento 1
     master 1
     master 2
     master 3
-<<<<<<< HEAD
     master 4
+<<<<<<< HEAD
     master 5
 =======
 <<<<<<< HEAD
@@ -18,3 +18,5 @@ experimento 1
 =======
 >>>>>>> ebb0421 (ntentando hacer rebase al branch experimento exp 1)
 >>>>>>> dc75411 (ntentando hacer rebase al branch experimento exp)
+=======
+>>>>>>> fbe0dab (no pude hacer un rebase)
