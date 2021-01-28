@@ -8,5 +8,12 @@ aprendidendo: git rebase:
     master 1
     master 2
     master 3
+<<<<<<< HEAD
     master 4
     master 5
+=======
+<<<<<<< HEAD
+    master 4
+=======
+>>>>>>> ebb0421 (ntentando hacer rebase al branch experimento exp 1)
+>>>>>>> dc75411 (ntentando hacer rebase al branch experimento exp)
