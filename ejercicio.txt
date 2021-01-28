@@ -5,4 +5,5 @@ aprendidendo: git add y git commit -m
 aprendiendo: vim para guardar: esc shit+zz
 
 aprendidendo: git rebase:
+master 1
     experimento 1
